@@ -1,13 +1,19 @@
 # android_study_14_1
 아롬 안드로이드 14기 스터디 1번
 
----
-
-간단하게 메모하고 저장, 불러오는 앱을 만들어봅시다.
+### 간단하게 메모하고 저장, 불러오는 앱을 만들어봅시다.
 
 단) mvvm + stateflow를 이용해서!
 
-![KakaoTalk_Photo_2024-09-25-22-24-23](https://github.com/user-attachments/assets/94e30e19-f78d-49a4-9cd4-d5dd073ae5bb)
+<img src = "https://github.com/user-attachments/assets/94e30e19-f78d-49a4-9cd4-d5dd073ae5bb" width = "30%" height = "30%">  
+
+
+<br>
+<br>
+
+
+
+
 
 오랜만에 안드로이드 개발하시는 분들도 계실테니 쉬운것 부터
 
@@ -21,10 +27,9 @@
 
 방학 스터디를 진행 안하신분들은 mvvm이 뭔지 어려우실수도 있는데요
 
-![image](https://github.com/user-attachments/assets/b61038e6-db7e-4930-a7f0-961455ddf480)
+<img src = "(https://github.com/user-attachments/assets/b61038e6-db7e-4930-a7f0-961455ddf480" width = "30%" height = "30%"> 
 
-
-간단하게 설명하면 우리는 그동안 view(activity&fragment)에서 모든 로직을 담당했다면, 그 역할을 나눠서존성을 분리하는겁니다. 
+간단하게 설명하면 우리는 그동안 view(activity&fragment)에서 모든 로직을 담당했다면, 그 역할을 나눠서 의존성을 분리하는겁니다. 
 
 분리를 해서 코드를 구조화 하고, 유지보수하기 쉽게 해줍니다.
 
