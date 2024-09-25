@@ -5,7 +5,7 @@
 
 단) mvvm + stateflow를 이용해서!
 
-<img src = "https://github.com/user-attachments/assets/94e30e19-f78d-49a4-9cd4-d5dd073ae5bb" width = "30%" height = "30%">  
+<img src = "https://github.com/user-attachments/assets/94e30e19-f78d-49a4-9cd4-d5dd073ae5bb" width = "40%" height = "40%">  
 
 
 <br>
@@ -27,7 +27,7 @@
 
 방학 스터디를 진행 안하신분들은 mvvm이 뭔지 어려우실수도 있는데요
 
-<img src = "(https://github.com/user-attachments/assets/b61038e6-db7e-4930-a7f0-961455ddf480" width = "30%" height = "30%"> 
+<img src = "https://github.com/user-attachments/assets/b61038e6-db7e-4930-a7f0-961455ddf480" width = "70%" height = "70%"> 
 
 간단하게 설명하면 우리는 그동안 view(activity&fragment)에서 모든 로직을 담당했다면, 그 역할을 나눠서 의존성을 분리하는겁니다. 
 
