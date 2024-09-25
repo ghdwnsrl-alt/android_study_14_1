@@ -96,7 +96,7 @@ pull requests에 앱의 스크린샷도 같이 남겨주세요.
 예시)
 
 ```kotlin
-- Feat(MainActivity): EditText를 SharedPreference에 저장하는 로직 추가
+- Feat(MainActivity, MainViewModel): EditText를 SharedPreference에 저장하는 로직 추가
 
 - Comment(MainViewModel): SharedPreference 로직 주석 추가
 ```
